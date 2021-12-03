@@ -1,2 +1,0 @@
-# StudentRecord
-Cpp-File Handling
